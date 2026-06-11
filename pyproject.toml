@@ -1,0 +1,12 @@
+[project]
+name = "dm-python-1106"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "kagglehub>=1.0.2",
+    "matplotlib>=3.10.9",
+    "pandas>=3.0.3",
+    "streamlit>=1.58.0",
+]
